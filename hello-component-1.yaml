@@ -12,3 +12,5 @@ spec:
     name: hello-environment
   dependencies:
     - name: hello-component
+  inputs:
+    specChanger: 1

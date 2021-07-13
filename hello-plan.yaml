@@ -13,7 +13,7 @@ spec:
       command: "/bin/sh"
       args:
         - "-c"
-        - "cat hello.txt && cat goodbye.txt"
+        - "cat hello.txt"
   delete:
     - name: goodbye
       description: Goodbye
