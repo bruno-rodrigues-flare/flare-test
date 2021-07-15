@@ -13,4 +13,4 @@ spec:
   dependencies:
     - name: hello-component
   inputs:
-    specChanger: 2
+    specChanger: 3
