@@ -13,7 +13,7 @@ spec:
       command: "/bin/sh"
       args:
         - "-c"
-        - "cat hello.txt"
+        - "cat hello-world/content/hello.txt"
   delete:
     - name: goodbye
       description: Goodbye
@@ -23,4 +23,4 @@ spec:
       command: "/bin/sh"
       args:
         - "-c"
-        - "cat goodbye.txt"
+        - "cat hello-world/content/goodbye.txt"

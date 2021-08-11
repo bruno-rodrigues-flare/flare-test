@@ -6,5 +6,4 @@ spec:
   description: Repository for Hello Workd
   remote:
     public:
-      url: "https://github.com/flare-community/hello-world-content"
-      ref: refs/tags/v1.0.1
+      url: "https://github.com/flare-community/examples"
