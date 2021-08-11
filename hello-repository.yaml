@@ -7,3 +7,4 @@ spec:
   remote:
     public:
       url: "https://github.com/flare-community/examples"
+      ref: "refs/heads/main"
